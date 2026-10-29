@@ -161,6 +161,6 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Rainbow Six Siege · Actualizado 2026-10-28 · Compartido bajo licencia MIT*
+*Rainbow Six Siege · Actualizado 2026-10-29 · Compartido bajo licencia MIT*
 
-<!-- updated 2026-10-28 -->
+<!-- updated 2026-10-29 -->
